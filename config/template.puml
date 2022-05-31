@@ -1,11 +1,12 @@
 @startuml
+skinparam monochrome true
 :
   {{
     salt
       {
         header Sample Page | Contact   
         title $TITLE
-        ..
+        --
         .
         $CONTENT
         ..

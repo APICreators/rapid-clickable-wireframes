@@ -9,17 +9,17 @@ rm -rf target
 mkdir -p target/inter
 mkdir -p target/static
 
-for PAGE in $(find . | grep '\.uml$'); do
+for PAGE in $(cd $SCRIPTPATH/pages && find . | grep '\.uml$'); do
   # embed title and content
   FORMATTED_TITLE=$(echo $PAGE | sed 's/\.uml//' | sed 's/\([a-z]\)\([A-Z]\)/\1 \2/g' | sed 's/^\.\///')
-  TITLE="$FORMATTED_TITLE" CONTENT="$(cat $PAGE)" \
+  TITLE="$FORMATTED_TITLE" CONTENT="$(cat $SCRIPTPATH/pages/$PAGE)" \
     envsubst < $SCRIPTPATH/config/template.puml > $SCRIPTPATH/target/inter/$PAGE
 
   # convert to svg
   (cd $SCRIPTPATH/target/inter && java -jar /opt/plantuml.jar -tsvg $PAGE)
 
   # format xml
-  SVG_PAGE="$(echo $PAGE | sed 's/\.uml$/.svg/')"
+  SVG_PAGE="$(cd $SCRIPTPATH/pages && echo $PAGE | sed 's/\.uml$/.svg/')"
   (cd $SCRIPTPATH/target/inter && xmllint --format $SVG_PAGE > $SVG_PAGE.new && mv $SVG_PAGE.new $SVG_PAGE)
   # remove comments
   (cd $SCRIPTPATH/target/inter && xmlstarlet ed -d '//comment()' $SVG_PAGE > $SVG_PAGE.new && mv $SVG_PAGE.new $SVG_PAGE)
