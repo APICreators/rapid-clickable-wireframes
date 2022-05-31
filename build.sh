@@ -9,6 +9,9 @@ rm -rf target
 mkdir -p target/inter
 mkdir -p target/static
 
+# copy in static images
+cp $SCRIPTPATH/img/* $SCRIPTPATH/target/inter/
+
 for PAGE in $(cd $SCRIPTPATH/pages && find . | grep '\.uml$'); do
   # embed title and content
   FORMATTED_TITLE=$(echo $PAGE | sed 's/\.uml//' | sed 's/\([a-z]\)\([A-Z]\)/\1 \2/g' | sed 's/^\.\///')
@@ -39,3 +42,4 @@ for PAGE in $(cd $SCRIPTPATH/target/inter && find . | grep '\.svg$'); do
     envsubst < $SCRIPTPATH/config/template.html > $SCRIPTPATH/target/static/$HTML_NAME
   
 done
+
