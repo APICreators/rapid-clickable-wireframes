@@ -40,6 +40,8 @@ for PAGE in $(cd $SCRIPTPATH/target/inter && find . | grep '\.svg$'); do
   HTML_NAME="$(echo $PAGE | sed "s/svg$/html/")" 
   IMG_SRC=$PAGE \
     envsubst < $SCRIPTPATH/config/template.html > $SCRIPTPATH/target/static/$HTML_NAME
+  #TODO: centre images
+  #for each image, divide the width of //svg/g/rect[0] by 2 and subtract half of img width - x of image(usually 7)
   
 done
 
