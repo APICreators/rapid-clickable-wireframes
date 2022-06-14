@@ -4,20 +4,12 @@ skinparam monochrome true
   {{
     salt
       {
-        header Sample Page | Contact   
         title $TITLE
         --
         .
         $CONTENT
         ..
-        .
-        {#
-          Links
-          "Sample Page"
-          "Contact"
-        }
-        ..
-        footer <&copyright> ACME | Privacy Policy | Terms of Use | Cookie Policy
+        footer <&copyright> Perfect Pizza 
       }
   }}
 ;

@@ -1,0 +1,9 @@
+{
+  Name     | "Sean       " 
+  Pizza    | ^Margarita^
+  More?    | [+]
+  .
+  Price:   | EUR 3
+  .
+  [Cancel] | [  OK   ]    
+}
