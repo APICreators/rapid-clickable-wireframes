@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="245px" preserveAspectRatio="none" style="width:231px;height:245px;background:#FFFFFF;" version="1.1" viewBox="0 0 231 245" width="231px" zoomAndPan="magnify">
+  <defs/>
+  <g>
+    <rect fill="#F1F1F1" height="223.9375" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="209" x="11" y="11"/>
+    <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="21" y="32.1387">&#xA0;</text>
+    <svg x="21" y="34.9688">
+      <defs/>
+      <g>
+        <rect fill="#FFFFFF" style="width:190px;height:177px;background:#FFFFFF;"/>
+        <rect height="26.2969" style="stroke:#00000000;stroke-width:1.0;fill:none;" width="60" x="63.5" y="10"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="50" x="68.5" y="27.9951"><a target="_top" href="Status.html">Status</a></text>
+        <line style="stroke:#AAAAAA;stroke-width:1.0;" x1="6" x2="183" y1="46.7969" y2="46.7969"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="41" x="7" y="79.4043"><a target="_top" href="Order.html">Order</a></text>
+        <text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="47" x="95" y="79.4043"><a target="_top" href="Status.html">Status</a></text>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="24" x="7" y="95.373">150</text>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="38" x="95" y="95.373">Ready</text>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="24" x="7" y="111.3418">151</text>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="50" x="95" y="111.3418"><a target="_top" href="Cook.html">Cook</a>ing</text>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="24" x="7" y="127.3105">152</text>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="46" x="95" y="127.3105">Waiting</text>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="10" y="143.2793">&#xA0;</text>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="8" x2="91" y1="146.1094" y2="146.1094"/>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="8" x2="8" y1="143.1094" y2="145.1094"/>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="91" x2="91" y1="143.1094" y2="145.1094"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="98" y="143.2793">&#xA0;</text>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="96" x2="179" y1="146.1094" y2="146.1094"/>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="96" x2="96" y1="143.1094" y2="145.1094"/>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="179" x2="179" y1="143.1094" y2="145.1094"/>
+        <line style="stroke:#AAAAAA;stroke-width:1.0;stroke-dasharray:1.0,2.0;" x1="6" x2="183" y1="154.6094" y2="154.6094"/>
+        <rect height="11.6406" style="stroke:#00000000;stroke-width:1.0;fill:none;" width="67" x="60" y="158.1094"/>
+        <text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="64" x="63" y="167.3916">Perfect Pizza</text>
+      </g>
+    </svg>
+    <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="21" y="222.1074">&#xA0;</text>
+  </g>
+</svg>

@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="299px" preserveAspectRatio="none" style="width:210px;height:299px;background:#FFFFFF;" version="1.1" viewBox="0 0 210 299" width="210px" zoomAndPan="magnify">
+  <defs/>
+  <g>
+    <rect fill="#F1F1F1" height="277.9375" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="188" x="11" y="11"/>
+    <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="21" y="32.1387">&#xA0;</text>
+    <svg x="21" y="34.9688">
+      <defs/>
+      <g>
+        <rect fill="#FFFFFF" style="width:169px;height:231px;background:#FFFFFF;"/>
+        <rect height="26.2969" style="stroke:#00000000;stroke-width:1.0;fill:none;" width="56" x="55" y="10"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="46" x="60" y="27.9951"><a target="_top" href="Order.html">Order</a></text>
+        <line style="stroke:#AAAAAA;stroke-width:1.0;" x1="6" x2="162" y1="46.7969" y2="46.7969"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="36" x="7" y="79.4043">Name</text>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="32" x="69" y="79.4043">Sean</text>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="67" x2="158" y1="82.2344" y2="82.2344"/>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="67" x2="67" y1="79.2344" y2="81.2344"/>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="158" x2="158" y1="79.2344" y2="81.2344"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="29" x="7" y="97.373">Pizza</text>
+        <rect fill="#EEEEEE" height="16.9688" style="stroke:#000000;stroke-width:1.0;" width="87" x="66" y="86.2344"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="60" x="68" y="99.373">Margarita</text>
+        <line style="stroke:#000000;stroke-width:1.0;" x1="142" x2="142" y1="86.2344" y2="103.2031"/>
+        <polygon fill="#000000" points="145,92.2344,151,92.2344,148,98.2031" style="stroke:#000000;stroke-width:1.0;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="37" x="7" y="117.3418">More?</text>
+        <rect fill="#EEEEEE" height="17.9688" rx="5" ry="5" style="stroke:#000000;stroke-width:2.5;" width="14" x="68.5" y="108.7031"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="10" x="70.5" y="121.8418">+</text>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="35" x="7" y="158.2793">Price:</text>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="37" x="66" y="158.2793">EUR 3</text>
+        <rect fill="#EEEEEE" height="17.9688" rx="5" ry="5" style="stroke:#000000;stroke-width:2.5;" width="52" x="9.5" y="181.5781"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="42" x="14.5" y="194.7168">Cancel</text>
+        <rect fill="#EEEEEE" height="17.9688" rx="5" ry="5" style="stroke:#000000;stroke-width:2.5;" width="60" x="68.5" y="181.5781"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="16" x="90.5" y="194.7168"><a target="_top" href="OK.html">OK</a></text>
+        <line style="stroke:#AAAAAA;stroke-width:1.0;stroke-dasharray:1.0,2.0;" x1="6" x2="162" y1="208.5469" y2="208.5469"/>
+        <rect height="11.6406" style="stroke:#00000000;stroke-width:1.0;fill:none;" width="67" x="49.5" y="212.0469"/>
+        <text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="64" x="52.5" y="221.3291">Perfect Pizza</text>
+      </g>
+    </svg>
+    <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="21" y="276.1074">&#xA0;</text>
+  </g>
+</svg>

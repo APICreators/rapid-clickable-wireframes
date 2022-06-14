@@ -1,0 +1,24 @@
+@startuml
+skinparam monochrome true
+:
+  {{
+    salt
+      {
+        title OK
+        --
+        .
+        {
+  Your order number is | 015
+  Price                | EUR 3
+  .
+  Please pay on collection 
+  ..
+  .
+  Next Customer | [ Order ]
+}
+        ..
+        footer <&copyright> Perfect Pizza 
+      }
+  }}
+;
+@enduml

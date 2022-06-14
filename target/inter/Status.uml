@@ -1,0 +1,22 @@
+@startuml
+skinparam monochrome true
+:
+  {{
+    salt
+      {
+        title Status
+        --
+        .
+        {
+  **Order** | **Status**
+  150    | Ready
+  151    | Cooking
+  152    | Waiting
+  "          " | "          "
+}
+        ..
+        footer <&copyright> Perfect Pizza 
+      }
+  }}
+;
+@enduml

@@ -1,0 +1,22 @@
+@startuml
+skinparam monochrome true
+:
+  {{
+    salt
+      {
+        title Cook
+        --
+        .
+        {
+  **Order**    | **Pizzas**    | **Status**    | **Prev** | **Next**
+  150 Alice    | 1xMrg 2xMnr   | Ready         | [<] | [>]
+  151 Bob      | 0xMrg 1xMnr   | Cooking       | [<] | [>]
+  152 Charlie  | 1xMrg 0xMnr   | Waiting       | [<] | [>]
+  "           "| "            "| "            "| "    "|"    "
+}
+        ..
+        footer <&copyright> Perfect Pizza 
+      }
+  }}
+;
+@enduml

@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="348px" preserveAspectRatio="none" style="width:257px;height:348px;background:#FFFFFF;" version="1.1" viewBox="0 0 257 348" width="257px" zoomAndPan="magnify">
+  <defs/>
+  <g>
+    <rect fill="#F1F1F1" height="326.9375" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="235" x="11" y="11"/>
+    <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="21" y="32.1387">&#xA0;</text>
+    <svg x="21" y="34.9688">
+      <defs/>
+      <g>
+        <rect fill="#FFFFFF" style="width:216px;height:280px;background:#FFFFFF;"/>
+        <rect height="26.2969" style="stroke:#00000000;stroke-width:1.0;fill:none;" width="55" x="79" y="10"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="45" x="84" y="27.9951"><a target="_top" href="Home.html">Home</a></text>
+        <line style="stroke:#AAAAAA;stroke-width:1.0;" x1="6" x2="209" y1="46.7969" y2="46.7969"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="160" x="7" y="79.4043">Welcome to Perfect Pizza!</text>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="200" x="7" y="95.373">We are a lovely little pizza place.</text>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="38" x="7" y="127.3105">Menu:</text>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="68" x="7" y="143.2793">- Margerita</text>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="63" x="7" y="159.248">- Marinara</text>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="55" x="7" y="191.1855">Address:</text>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="61" x="7" y="207.1543">1 Pizza Rd</text>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="39" x="7" y="223.123">Napoli</text>
+        <rect fill="#EEEEEE" height="17.9688" rx="5" ry="5" style="stroke:#000000;stroke-width:2.5;" width="60" x="9.5" y="230.4531"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="35" x="22" y="243.5918"><a target="_top" href="Order.html">Order</a></text>
+        <line style="stroke:#AAAAAA;stroke-width:1.0;stroke-dasharray:1.0,2.0;" x1="6" x2="209" y1="257.4219" y2="257.4219"/>
+        <rect height="11.6406" style="stroke:#00000000;stroke-width:1.0;fill:none;" width="67" x="73" y="260.9219"/>
+        <text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="64" x="76" y="270.2041">Perfect Pizza</text>
+      </g>
+    </svg>
+    <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="21" y="325.1074">&#xA0;</text>
+  </g>
+</svg>

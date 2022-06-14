@@ -1,0 +1,24 @@
+@startuml
+skinparam monochrome true
+:
+  {{
+    salt
+      {
+        title Order
+        --
+        .
+        {
+  Name     | "Sean       " 
+  Pizza    | ^Margarita^
+  More?    | [+]
+  .
+  Price:   | EUR 3
+  .
+  [Cancel] | [  OK   ]    
+}
+        ..
+        footer <&copyright> Perfect Pizza 
+      }
+  }}
+;
+@enduml
