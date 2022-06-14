@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="276px" preserveAspectRatio="none" style="width:276px;height:276px;background:#FFFFFF;" version="1.1" viewBox="0 0 276 276" width="276px" zoomAndPan="magnify">
+  <defs/>
+  <g>
+    <rect fill="#F1F1F1" height="254.9375" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="254" x="11" y="11"/>
+    <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="21" y="32.1387">&#xA0;</text>
+    <svg x="21" y="34.9688">
+      <defs/>
+      <g>
+        <rect fill="#FFFFFF" style="width:235px;height:208px;background:#FFFFFF;"/>
+        <rect height="26.2969" style="stroke:#00000000;stroke-width:1.0;fill:none;" width="33" x="99.5" y="10"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="23" x="104.5" y="27.9951"><a target="_top" href="OK.html">OK</a></text>
+        <line style="stroke:#AAAAAA;stroke-width:1.0;" x1="6" x2="228" y1="46.7969" y2="46.7969"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="132" x="7" y="79.4043">Your order number is</text>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="24" x="161" y="79.4043">015</text>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="31" x="7" y="95.373">Price</text>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="37" x="161" y="95.373">EUR 3</text>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="152" x="7" y="127.3105">Please pay on collection</text>
+        <line style="stroke:#AAAAAA;stroke-width:1.0;stroke-dasharray:1.0,2.0;" x1="7" x2="160" y1="135.6406" y2="135.6406"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="92" x="7" y="167.248">Next Customer</text>
+        <rect fill="#EEEEEE" height="17.9688" rx="5" ry="5" style="stroke:#000000;stroke-width:2.5;" width="60" x="163.5" y="158.6094"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="35" x="176" y="171.748"><a target="_top" href="Order.html">Order</a></text>
+        <line style="stroke:#AAAAAA;stroke-width:1.0;stroke-dasharray:1.0,2.0;" x1="6" x2="228" y1="185.5781" y2="185.5781"/>
+        <rect height="11.6406" style="stroke:#00000000;stroke-width:1.0;fill:none;" width="67" x="82.5" y="189.0781"/>
+        <text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="64" x="85.5" y="198.3604">Perfect Pizza</text>
+      </g>
+    </svg>
+    <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="21" y="253.1074">&#xA0;</text>
+  </g>
+</svg>
